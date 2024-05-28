@@ -1,0 +1,14 @@
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.AssemblyInfoInputs.cache
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.AssemblyInfo.cs
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.csproj.CoreCompileInputs.cache
+C:\Users\Dough\Desktop\MatrixC#\bin\Debug\net8.0\MatrixC#.exe
+C:\Users\Dough\Desktop\MatrixC#\bin\Debug\net8.0\MatrixC#.deps.json
+C:\Users\Dough\Desktop\MatrixC#\bin\Debug\net8.0\MatrixC#.runtimeconfig.json
+C:\Users\Dough\Desktop\MatrixC#\bin\Debug\net8.0\MatrixC#.dll
+C:\Users\Dough\Desktop\MatrixC#\bin\Debug\net8.0\MatrixC#.pdb
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.dll
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\refint\MatrixC#.dll
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.pdb
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\MatrixC#.genruntimeconfig.cache
+C:\Users\Dough\Desktop\MatrixC#\obj\Debug\net8.0\ref\MatrixC#.dll
